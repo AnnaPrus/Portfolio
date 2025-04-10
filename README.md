@@ -21,7 +21,7 @@ This repository showcases a collection of hands-on projects I've completed throu
 - Technologies Used: Python, Beautiful Soup, Pandas
 
 - Final Outcome: *[the output file with the list of trasformed banks](https://github.com/AnnaPrus/web_scrapping/blob/main/banks_transformed.csv)*
-
-
+  
+--
 [My Linkedin Profile](https://www.linkedin.com/in/anna-prus-solutions-engineer/)
 
