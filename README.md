@@ -16,7 +16,7 @@ This repository showcases a collection of hands-on projects I've completed throu
 
 ---
 
-# [Web Scrapping - Beautiful Soup]([https://github.com/AnnaPrus/web_scrapping/blob/main/README.md](https://github.com/AnnaPrus/web_scrapping/tree/main))
+# [Web Scrapping - Beautiful Soup](https://github.com/AnnaPrus/web_scrapping/blob/main/README.md](https://github.com/AnnaPrus/web_scrapping/tree/main)
 
 - Project Overview: Used Webscraping techniques to extract information from the website "the list of the top 10 largest banks in the world" as per requirement. Used Pandas data frames and dictionaries to transform data as per requirement. Loaded the processed information to CSV files and as Database tables. Queried the database tables using SQLite3 and pandas libraries. Logged the progress of the code properly.
 
