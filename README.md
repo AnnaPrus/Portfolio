@@ -23,6 +23,6 @@ This repository showcases a collection of hands-on projects I've completed throu
 - Final Outcome: *[the output file with the list of trasformed banks](https://github.com/AnnaPrus/web_scrapping/blob/main/banks_transformed.csv)*
   
 ***
-
+<hr style="border: 1px solid #ccc;">
 [My Linkedin Profile](https://www.linkedin.com/in/anna-prus-solutions-engineer/)
 
