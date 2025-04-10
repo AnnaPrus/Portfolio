@@ -18,7 +18,7 @@ This repository showcases a collection of hands-on projects I've completed throu
 
 # [Web Scrapping - Beautiful Soup](https://github.com/AnnaPrus/web_scrapping/blob/main/README.md)
 
-- Project Overview: In this project, the Beautiful Soup tool was employed to scrape data from the official Berlin website, gathering details about all the restaurants in the city. The extracted data was then organized into a dataset, which was visualized in the form of an interactive map showcasing the restaurant locations. The map was published on Tableau Public for easy exploration.
+- Project Overview: Used Webscraping techniques to extract information from the website "the list of the top 10 largest banks in the world" as per requirement. Used Pandas data frames and dictionaries to transform data as per requirement. Loaded the processed information to CSV files and as Database tables. Queried the database tables using SQLite3 and pandas libraries. Logged the progress of the code properly.
 
 - Technologies Used: Python, Beautiful Soup, Pandas
 
