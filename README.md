@@ -24,5 +24,6 @@ This repository showcases a collection of hands-on projects I've completed throu
 
 
 <hr style="border: 0,5px solid #ccc;">
+
 [My Linkedin Profile](https://www.linkedin.com/in/anna-prus-solutions-engineer/)
 
