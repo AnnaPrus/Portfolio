@@ -30,20 +30,20 @@ This repository showcases a collection of hands-on projects I've completed throu
 
 - Key goals include:
 
- - Loading and structuring data efficiently from a CSV file.
- - Developing a custom schema for accurate data representation.
- - Applying SQL queries and DataFrame operations for filtering, aggregation, and calculation.
- - Solving business-like analytics questions, such as department statistics, salary computations, and employee segmentation.
- - Practicing code modularity and data-focused programming within a distributed computing framework.
+  - Loading and structuring data efficiently from a CSV file.
+  - Developing a custom schema for accurate data representation.
+  - Applying SQL queries and DataFrame operations for filtering, aggregation, and calculation.
+  - Solving business-like analytics questions, such as department statistics, salary computations, and employee segmentation.
+  - Practicing code modularity and data-focused programming within a distributed computing framework.
 
 - Technologies used: 
- - Apache Spark (with PySpark): Fast, distributed data processing engine.
- - Python 3.x: Main programming language for code implementation.
- - Jupyter Notebook/IPython: Interactive environment for development and results visualization.
- - Spark SQL: SQL interface for querying structured data within Spark.
- - DataFrame API: For columnar data processing, transformations, and aggregations.
- - findspark: Integration utility for Spark in Python environments.
- - wget: Downloading external datasets and resources.
+  - Apache Spark (with PySpark): Fast, distributed data processing engine.
+  - Python 3.x: Main programming language for code implementation.
+  - Jupyter Notebook/IPython: Interactive environment for development and results visualization.
+  - Spark SQL: SQL interface for querying structured data within Spark.
+  - DataFrame API: For columnar data processing, transformations, and aggregations.
+  - findspark: Integration utility for Spark in Python environments.
+  - wget: Downloading external datasets and resources.
 
 <hr style="border: 0,5px solid #ccc;">
 
