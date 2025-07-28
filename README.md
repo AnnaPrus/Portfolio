@@ -44,6 +44,16 @@ This repository showcases a collection of hands-on projects I've completed throu
   - DataFrame API: For columnar data processing, transformations, and aggregations.
   - findspark: Integration utility for Spark in Python environments.
   - wget: Downloading external datasets and resources.
+ 
+# [M&M Color Count by US State using Apache Spark](https://github.com/AnnaPrus/count_mnm_with_spark)  
+
+- Project Overview: this project processes a CSV dataset of M&M candy counts by color across different US states. Using Apache Spark and PySpark, it reads the data, aggregates counts by color and state, and outputs the summarized results.
+
+count_mnm_with_spark/
+│
+├── mnm_data.csv            # CSV file with M&M counts by color and state
+├── count_mnm.py            # Python script that uses Spark to aggregate counts
+└── README.md               # Setup instructions and project details
 
 <hr style="border: 0,5px solid #ccc;">
 
