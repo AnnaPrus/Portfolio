@@ -26,7 +26,7 @@ This repository showcases a collection of hands-on projects I've completed throu
 - Final Outcome: *[the output file with the list of trasformed banks](https://github.com/AnnaPrus/web_scrapping/blob/main/banks_transformed.csv)*
 
 # [Data Analysis Using PySpark](https://github.com/AnnaPrus/data_analysis_using_spark)
-- Project Overview: This project demonstrates hands-on data analysis using Apache Spark and PySpark. The primary objective is to showcase practical data engineering and advanced analytics skills by performing a series of structured transformations and queries on employee data.
+- Project Overview: This project demonstrates hands-on data analysis using PySpark, the Python API for Apache Spark. The primary objective is to showcase practical data engineering and advanced analytics skills by performing a series of structured transformations and queries on employee data.
 
 - Key goals include:
 
