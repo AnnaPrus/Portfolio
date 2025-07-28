@@ -50,10 +50,9 @@ This repository showcases a collection of hands-on projects I've completed throu
 
 ´´´
 count_mnm_with_spark/
-│
-├── mnm_data.csv            # CSV file with M&M counts by color and state
-├── count_mnm.py            # Python script that uses Spark to aggregate counts
-└── README.md               # Setup instructions and project details
+├── mnm_data.csv # CSV file with M&M counts by color and state
+├── count_mnm.py # Python script that uses Spark to aggregate counts
+└── README.md # Setup instructions and project details
 ´´´
 
 <hr style="border: 0,5px solid #ccc;">
