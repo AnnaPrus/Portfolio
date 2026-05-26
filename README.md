@@ -13,6 +13,30 @@ The projects here focus on building real workflows end to end: ingesting and tra
 - Visualization and dashboard-ready datasets
 - Continuous learning projects focused on practical implementation
 
+# [Renewable Energy Data Pipeline](https://github.com/AnnaPrus/renewable-energy-pipeline)
+
+- Project Overview: This project builds an end-to-end batch data pipeline for analyzing European electricity demand and renewable energy production. The pipeline ingests raw time-series data, cleans and validates it with Airflow, stores it in Google Cloud Storage and BigQuery, transforms it with dbt, and produces dashboard-ready analytics models.
+
+- Key goals include:
+  - Building an orchestrated batch pipeline with Apache Airflow
+  - Loading data into a cloud-based data lake and data warehouse
+  - Applying dbt transformations to create staging, intermediate, and mart models
+  - Optimizing BigQuery tables with partitioning and clustering
+  - Analyzing renewable share, demand patterns, and peak load behavior across countries
+
+- Technologies Used:
+  - Python and pandas: Data ingestion and cleaning
+  - Apache Airflow: Workflow orchestration
+  - Google Cloud Storage: Raw data storage
+  - BigQuery: Cloud data warehouse
+  - dbt: Transformations and testing
+  - Terraform: Infrastructure as code
+  - Docker: Local environment setup
+  - Looker Studio: Dashboarding and visualization
+
+- Final Outcome: An end-to-end cloud-based batch pipeline that produces analytics-ready tables and insights on renewable energy share, electricity demand trends, and supply-demand mismatches in Germany and Austria.
+
+
 # [Web Scraping - Beautiful Soup](https://github.com/AnnaPrus/web_scrapping/tree/main)
 
 - Project Overview: This project uses web scraping techniques to extract information from a website listing the top 10 largest banks in the world. The scraped data is transformed using Python and pandas, then stored in CSV format and SQLite tables for further querying and analysis.
@@ -61,29 +85,6 @@ count_mnm_with_spark/
 ├── count_mnm.py        # Python script that uses Spark to aggregate counts
 └── README.md           # Setup instructions and project details
 ```
-
-# [Renewable Energy Data Pipeline](https://github.com/AnnaPrus/renewable-energy-pipeline)
-
-- Project Overview: This project builds an end-to-end batch data pipeline for analyzing European electricity demand and renewable energy production. The pipeline ingests raw time-series data, cleans and validates it with Airflow, stores it in Google Cloud Storage and BigQuery, transforms it with dbt, and produces dashboard-ready analytics models.
-
-- Key goals include:
-  - Building an orchestrated batch pipeline with Apache Airflow
-  - Loading data into a cloud-based data lake and data warehouse
-  - Applying dbt transformations to create staging, intermediate, and mart models
-  - Optimizing BigQuery tables with partitioning and clustering
-  - Analyzing renewable share, demand patterns, and peak load behavior across countries
-
-- Technologies Used:
-  - Python and pandas: Data ingestion and cleaning
-  - Apache Airflow: Workflow orchestration
-  - Google Cloud Storage: Raw data storage
-  - BigQuery: Cloud data warehouse
-  - dbt: Transformations and testing
-  - Terraform: Infrastructure as code
-  - Docker: Local environment setup
-  - Looker Studio: Dashboarding and visualization
-
-- Final Outcome: An end-to-end cloud-based batch pipeline that produces analytics-ready tables and insights on renewable energy share, electricity demand trends, and supply-demand mismatches in Germany and Austria.
 
 
 <hr style="border: 0.5px solid #ccc;">
